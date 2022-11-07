@@ -1,0 +1,28 @@
+theme: "PaperMod"
+params:
+
+  profileMode:
+      enabled: true
+      title: "Asnim Puthenpurayil Ansari" # optional default will be site title
+      subtitle: "developer@sensibull"
+      imageUrl: "asnim.jpg" # optional
+      imageTitle: "asnimansari" # optional
+      imageWidth: 200 # custom size
+      imageHeight: 200 # custom size
+      ShowShareButtons: true
+      ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page
+
+  socialIcons:
+  - name: "github"
+    url: "https://github.com/asnimansari"
+  - name: "twitter"
+    url: "https://twitter.com/asnimansari"
+  - name: "linkedin"
+    url: "https://linkedin.com/in/asnimansari"
+  - name: "instagram"
+    url: "https://instagram.com/asnimansari"
+  - name: "email"
+    url: "mailto:asnimansari@gmail.com"
+
+
+
