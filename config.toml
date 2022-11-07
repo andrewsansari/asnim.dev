@@ -1,7 +1,7 @@
 baseURL = "asnim.dev"
 languageCode = "en-us"
 title = "Asnim Puthenpurayil Ansari"
-theme = "hermit"
+theme = "h1"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 enableEmoji = true
