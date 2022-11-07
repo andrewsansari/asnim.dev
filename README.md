@@ -6,3 +6,5 @@ Personal website of Asnim P Ansari
 -[ ] Add about me
 -[ ] Fix the theme colors
 -[ ] Fix the site Icon
+-[ ] Remove broker archives
+-[ ] Finish the bank scam

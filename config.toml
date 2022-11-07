@@ -65,18 +65,15 @@ enableEmoji = true
     name = "linkedin"
     url = "https://www.linkedin.com/in/asnimansari/"
 
-#   [[params.social]]
-#     name = "stackoverflow"
-#     url = "https://stackoverflow.com/users/2212355/sidharth-v"
 
-# [menu]
+[menu]
 
-#   [[menu.main]]
-#     name = "About"
-#     url = "about/"
-#     weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
 
-#   [[menu.main]]
-#     name = "Posts"
-#     url = "posts/"
-#     weight = 20
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 20
