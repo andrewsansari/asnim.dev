@@ -22,7 +22,7 @@ Earning 1.64 Crores over 35 years is not something extraordinary.
 Why ??
 
 
-Say you want to invest 3L per year, i.e. around 25k per month, and assume you are investing this on some mutual fund or index fund which gives annualised returns of around 10% ( not hard to find ).
+Say you want to invest 3L per year, i.e. around 25k per month, and assume you are investing this on some mutual fund or exchange traded fund which gives annualised returns of around 10%.
 
 As per the bank scheme, you do this for ten years, and at the end of ten years, you will have only 30Lakhs in your hand.
 
