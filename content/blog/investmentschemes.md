@@ -1,9 +1,8 @@
 +++
-title = "Investement Pressure by Private Banks"
-draft = "true"
-
+title = "Designed to keep you poor: Why bank income schemes always underperform the market"
+date = "2022-11-08"
+draft = false
 +++
-Investment Pressures from a private bank
 
 Last week, I wanted to get an add-on credit card for my wife. I enquired with my relationship manager. Though this is possible without getting a savings account for her, my manager insisted on getting a bank account to meet their targets which I agreed to, and they sent one representative to my house to get this done. 
 
@@ -21,6 +20,7 @@ Well, the answer is both Yes, and No; it depends on the horizon of time you are 
 Earning 1.64 Crores over 35 years is not something extraordinary. 
 
 Why ??
+
 
 Say you want to invest 3L per year, i.e. around 25k per month, and assume you are investing this on some mutual fund or index fund which gives annualised returns of around 10% ( not hard to find ).
 
@@ -48,10 +48,6 @@ Let us look at scenarios and understand this.
 You can play around by tweaking the amount horizon in this website and better understand how it works. 
 
 Anyway, most of the bank schemes might initially look lucrative, but if you spend some time digging into the other options available, you will get better results. 
-
-
-
-
 
 
 
