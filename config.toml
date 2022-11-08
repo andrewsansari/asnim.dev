@@ -74,11 +74,6 @@ enableEmoji = true
     weight = 10
 
   [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 20
-
-  [[menu.main]]
     name = "Blog"
     url = "blog/"
     weight = 20
