@@ -49,7 +49,7 @@ Let us look at scenarios and understand this.
 4. The 20th year since inception will give your a corpus of 1.39Crores.
 
 _You can see how this grows as follows_
-![Investments without yearly payout](/images/im1.png)
+![Investments without yearly payout](/images/investmentnotes/im1.png)
 
 
 
@@ -57,7 +57,7 @@ Let us look at the scenario in which the banks tried selling to us.
 1. Say we are taking out 3.83 L every year. Even then, we would end up 15Crores +ve at the end of 35 years.
 
 
-![Investments with yearly payout](/images/im2.png)
+![Investments with yearly payout](/images/investmentnotes/im2.png)
 
 You can use online finance calculators to play around with this, figure out various schemes, and choose something best for you.
 Personally I have used [The Calculator Site](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php) to figure these out.
