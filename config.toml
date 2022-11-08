@@ -59,7 +59,7 @@ enableEmoji = true
 
 [[params.social]]
     name = "email"
-    url = "mailto:hi@asnim.dev"
+    url = "mailto:asnim.ansari@gmail.com"
 
   [[params.social]]
     name = "linkedin"
