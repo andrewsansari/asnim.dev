@@ -39,17 +39,25 @@ Now that you have finished your 15th year, it is time for the bank to give you m
 Let us look at scenarios and understand this.
 
 1. We are not withdrawing/investing any money further, and we exit this after 35 years (i.e. a total of 50 years since our first investment ) - > In this case, you will end up with 27.41 Crores.
-2. Say we are exiting this at 40th year since inceptions -> 10Crore
-3. 30th year since insepction -> 3.7 Crore
-4. 20th year since inseption -> 1.38 Crore
-5. Withdrawing 4L every year after the 15th year since inception for 35 years. -> Still be left with 15Crore
-6. Write about adjustment
-
-You can play around by tweaking the amount horizon in this website and better understand how it works. 
-
-Anyway, most of the bank schemes might initially look lucrative, but if you spend some time digging into the other options available, you will get better results. 
 
 
 
 
+1. We are not withdrawing/investing any money further. We exit this after 35 years (i.e. a total of 50 years since our first investment). In this case, you will end up with 27.41 Crores.
+2. Say we are exiting this at the 40th year since inception, then the corpus will be around 10 Crores.
+3. 30th year since inception will give a corpus of 3.7 Crores.
+4. The 20th year since inception will give your a corpus of 1.39Crores.
 
+_You can see how this grows as follows_
+![Investments without yearly payout](/images/im1.png)
+
+
+
+Let us look at the scenario in which the banks tried selling to us. 
+1. Say we are taking out 3.83 L every year. Even then, we would end up 15Crores +ve at the end of 35 years.
+
+
+![Investments with yearly payout](/images/im2.png)
+
+You can use online finance calculators to play around with this, figure out various schemes, and choose something best for you.
+Personally I have used [The Calculator Site](https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php) to figure these out.
