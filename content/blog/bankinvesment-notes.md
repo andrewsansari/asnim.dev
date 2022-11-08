@@ -38,11 +38,6 @@ Now that you have finished your 15th year, it is time for the bank to give you m
 
 Let us look at scenarios and understand this.
 
-1. We are not withdrawing/investing any money further, and we exit this after 35 years (i.e. a total of 50 years since our first investment ) - > In this case, you will end up with 27.41 Crores.
-
-
-
-
 1. We are not withdrawing/investing any money further. We exit this after 35 years (i.e. a total of 50 years since our first investment). In this case, you will end up with 27.41 Crores.
 2. Say we are exiting this at the 40th year since inception, then the corpus will be around 10 Crores.
 3. 30th year since inception will give a corpus of 3.7 Crores.
