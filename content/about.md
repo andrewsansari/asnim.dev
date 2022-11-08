@@ -7,7 +7,7 @@ date = "2020-04-09"
 # Professional Experience
 
 ## Sensibull (July ‘18 - Present)
-### Building options trading platform for India
+### Building options trading platform for India @ [sensibull](sensibull.com)
 
 
 # Tech
