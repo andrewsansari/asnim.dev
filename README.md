@@ -4,7 +4,9 @@ Personal website of Asnim P Ansari
 
 ## Todo
 -[ ] Add about me
--[ ] Fix the theme colors
+-[x] Fix the theme colors
 -[ ] Fix the site Icon
 -[ ] Remove broker archives
--[ ] Finish the bank scam
+-[x] Finish the bank scam
+-[x] Added google analytics
+
