@@ -5,6 +5,7 @@ theme = "h1"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 enableEmoji = true
+googleAnalytics = "G-888GND7PT1"
 [author]
   name = "Asnim Puthenpurayil Ansari"
 
