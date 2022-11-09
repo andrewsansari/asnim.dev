@@ -17,4 +17,4 @@ date = "2020-04-09"
 - Services: SQS, PostgreSQL
 
 
-# More comming soon
+# More coming soon

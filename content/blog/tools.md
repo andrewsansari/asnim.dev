@@ -10,7 +10,7 @@ Software
 - This website is hosted on GCP Storage bucket with Cloudflare in front.
 - Editor: Vscode
 - Terminal: Alacritty
-- Notes: Notablity
+- Notes: Notability
 
 Hardware
 - Laptop: Thinkpad p15v
