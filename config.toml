@@ -58,13 +58,19 @@ googleAnalytics = "G-888GND7PT1"
     name = "twitter"
     url = "https://twitter.com/asnimansari"
 
-[[params.social]]
-    name = "email"
-    url = "mailto:asnim.ansari@gmail.com"
+  [[params.social]]
+      name = "email"
+      url = "mailto:asnim.ansari@gmail.com"
 
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/asnimansari/"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/asnimansari"
+
+  
 
 
 [menu]
