@@ -4,10 +4,9 @@ date = "2022-10-21"
 draft = false
 +++
 
-I went to Jordan for a ten-day vacation on Oct 2022. With an Indian Passport, there is no need to get the visa prior as you can use the Visa on Arrival facility provided by the country. Also, if you get a [Jordan pass](https://www.jordanpass.jo/) before reaching Jordan, it includes your 30days tourist visa fees, too (provided you stay for 4nights at least, otherwise, they will charge you the prices once you go for exit immigration).
+![Jordan Title Image](/images/jordan/title.jpg)
 
-
-
+I went to Jordan for a ten-day vacation on Oct 2022. With an Indian Passport, there is no need to get the visa prior as you can use the Visa on Arrival facility provided by the country. Also, if you get a Jordan pass before reaching Jordan, it includes your 30days tourist visa fees, too (provided you stay for 4nights at least, otherwise, they will charge you the prices once you go for exit immigration).
 
 I had a valid B1/B2 visa, so the officers who issued an arrival visa just glanced through my passport, gave me my visa and let me proceed to the immigration counter.
 
