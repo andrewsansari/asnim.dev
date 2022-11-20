@@ -4,17 +4,8 @@ date = "2020-04-09"
 +++
 
 
-# Professional Experience
+Hi there, I'm Asnim P Ansari
 
-## Sensibull (July ‘18 - Present)
-### Building options trading platform for India @ [sensibull](https://sensibull.com)
+_You can almost find me anywhere on internet by **asnimansari** as a username/handle_
 
-
-# Tech
-- Languages: Golang, Rust, Python, Javascript
-- Backend: Tornado, (Go and rust)
-- Infra: AWS, Terraform, Jenkins,
-- Services: SQS, PostgreSQL
-
-
-# More coming soon
+- Working on Rust, Golang, Python & React.js [@BeSensibull](https://twitter.com/BeSensibull)
