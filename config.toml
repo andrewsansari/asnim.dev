@@ -85,9 +85,3 @@ googleAnalytics = "G-888GND7PT1"
     url = "blog/"
     weight = 20
 
-  [[menu.main]]
-    name = "Projects"
-    url = "projects/"
-    weight = 20
-
-
