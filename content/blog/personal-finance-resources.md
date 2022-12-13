@@ -1,10 +1,11 @@
 +++
 title = "Personal finance resources"
-date = "2022-11-09"
-draft = true
+date = "2022-11-20"
+draft = false
 +++
 
-Here I will be listing few links which helped me better at personal finance
+
+Some personal finance resources that I wish I read earlier.
 
 1. Personal finance notes from Zerodha [Varsity](https://zerodha.com/varsity/module/personalfinance/)
 2. Term Insurance details from [Ditto](https://joinditto.in/)
