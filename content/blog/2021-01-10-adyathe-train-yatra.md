@@ -1,8 +1,11 @@
 +++
 title = "First train journey memories"
-date = "2022-01-10"
+date = "2021-01-10"
 draft = false
 +++
+
+![Maniyara](/images/traintrip/trainyatra.jpg)
+
 
 The oldest train memory I have traveling in a train was when I travelled from Kayamkulam to Trivandrum in early part of 2000s to visit my mom's relatives in Trivandrum. 
 
