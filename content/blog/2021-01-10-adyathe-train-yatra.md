@@ -12,6 +12,6 @@ Kayamkulam railway station still looks the same, with sunroofs now. Even the sma
 
 This journey excited the juvenile me, who invariably used to get stuck at the railway cross for all my to and fro school journeys. But today, enjoying the perspective of how railway crosses look from inside a train, figuring out if I had already passed through these crosses by road.
 
-The scene I  particularly miss from that journey was of a lush green village where trains slowed, giving a lush green grass mat paddy field view with abandoned rusted iron wheels.
+The scene I  particularly miss from that journey was of a lush green village where trains slowed, where abandoned rusted iron wheels laid. 
 
 Whenever I travel to Trivandrum, I still look for this view, but I am never able to find it; maybe it is due to the long 100 km stretch, or the place has changed, or it could be partly some dreams I had. Who knows !!!!
