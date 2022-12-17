@@ -4,15 +4,14 @@ date = "2021-01-10"
 draft = false
 +++
 
-![Maniyara](/images/traintrip/trainyatra.jpg)
+![Train](/images/traintrip/trainyatra.jpg)
 
+My oldest train memory of travelling in a train was when I travelled from Kayamkulam to Trivandrum in the early 2000s to visit my maternal relatives in Trivandrum.
 
-The oldest train memory I have traveling in a train was when I travelled from Kayamkulam to Trivandrum in early part of 2000s to visit my mom's relatives in Trivandrum. 
+Kayamkulam railway station still looks the same, with sunroofs now. Even the small food stall seems the same from my vague memory.
 
-Kayamkulam railway station still looks the same except it now has sun roofs. Even the food stall looks the same from my vague memory, except it is issues currently.
+This journey excited the juvenile me, who invariably used to get stuck at the railway cross for all my to and fro school journeys. But today, enjoying the perspective of how railway crosses look from inside a train, figuring out if I had already passed through these crosses by road.
 
+The scene I  particularly miss from that journey was of a lush green village where trains slowed, giving a lush green grass mat paddy field view with abandoned rusted iron wheels.
 
-This was one of my exciting journeys as a kid who always had to get used to getting stuck at the railway cross for all my access to highways. But this time, enjoying the perspective of how these railway crosses look from inside a train—figuring out if I had already passed through these crosses by road.
-
-One of the scenes I missed from that journey was of a lush green village where the train slowed or stopped for some reason, and looked out the window; I could see abandoned brown railway wheels lying in the lush green grass mat. 
-Whenever I travel to Trivandrum, I look for this view, but I can never find it; maybe it is due to the long 100 km stretch I cover and cant scan every place, or perhaps it could be partly left in my memory from some dreams I had. Who knows !!!!
+Whenever I travel to Trivandrum, I still look for this view, but I am never able to find it; maybe it is due to the long 100 km stretch, or the place has changed, or it could be partly some dreams I had. Who knows !!!!
