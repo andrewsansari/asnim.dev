@@ -29,7 +29,7 @@ googleAnalytics = "G-888GND7PT1"
   # bgImg = ""  # Homepage background-image URL
 
   [params.utterances]
-    repo = "asnimansari/asnim.dev"
+    repo = "andrewsansari/asnim.dev"
     theme = "github-dark"
     issueTerm = "title"
     label="comments 💬"
