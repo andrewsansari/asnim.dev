@@ -1,7 +1,7 @@
 +++
 title = "Kannur - Kasargod - Mangalore workation"
 date = "2022-03-14"
-draft = false
+draft = true
 +++
 
 JKK and I have been thinking about going for a small-budget bike trip ever after one year of covid, and I got bored sitting at home. We wanted to work and travel for a while. After one year of planning, we thought of exploring the North Malabar region, namely Kannur, Kasargod and Mangalore.
