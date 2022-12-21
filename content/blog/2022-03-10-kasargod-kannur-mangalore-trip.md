@@ -28,7 +28,6 @@ Later the next day, we visited a mangrove nursery in the middle of the lake, whi
 
 
 ## Kasargod
-
 ![Bakel](/images/ktrip/bakel.jpg)
 
 Kasargod was one of the exciting parts of this trip. Kasargod is mainly alienated from the rest of Kerala, and I never had friends from Kasargod until recently. Kasargod's exploration started during workdays, so we had to fix one stay for a few days and then move to the next. 
@@ -45,8 +44,7 @@ Looking back, Kasargod, without nightlife or much activity, sometimes makes me t
 
 
 ## Mangalore
- 
- We came to Mangalore without any plans as such. Once we came to Mangalore, we realised NITK was nearby and did ad-hoc planning to visit the campus and spend some time there. We figured out we had a few friends doing M.Tech there. With the help of our friends there, we took the guest room on the campus, which was super cheap. Once we settled down, we started roaming inside the campus; the place was vast compared to the college where I studied. The accommodation facility inside the campus made all the students wander around the area all night. 
+We came to Mangalore without any plans as such. Once we came to Mangalore, we realised NITK was nearby and did ad-hoc planning to visit the campus and spend some time there. We figured out we had a few friends doing M.Tech there. With the help of our friends there, we took the guest room on the campus, which was super cheap. Once we settled down, we started roaming inside the campus; the place was vast compared to the college where I studied. The accommodation facility inside the campus made all the students wander around the area all night. 
 Once we started talking to the Mallu students, we realised most of them were friends of one of our friends. There was a sports competition on the campus when we visited, so at night we used to go to see the match and spend time with students playing in some corner. NITK has a beach attached to the campus with a lighthouse as an add-on. 
 
 ![NITK](/images/ktrip/nitk.jpg)
