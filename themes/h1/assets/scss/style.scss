@@ -19,7 +19,7 @@
 }
 
 html {
-  background: $light-grey;
+  background: $light-white;
   line-height: 1.6;
   letter-spacing: .06em;
   scroll-behavior: smooth;
@@ -94,8 +94,8 @@ a {
   transition-timing-function: ease-out;
 
   &:hover {
-    color: #fff;
-    text-shadow: 0 0 1px #fff;
+    color: #000000;
+    text-shadow: 0 0 1px #000000;
   }
 }
 
@@ -246,6 +246,10 @@ table {
     font-size: 1.2em;
   }
 
+  a {
+    color: $light-white;
+  }
+
   .site-nav {
     display: inline-block;
     font-size: 1.1em;
@@ -262,6 +266,7 @@ table {
 
     a {
       margin-left: .8em;
+      color:$light-white;
     }
   }
 }
