@@ -1,6 +1,6 @@
 +++
 title = "What I wish I had known when I was 15 years."
-date = "2022-12-27"
+date = "2022-12-26"
 draft = false
 +++
 
