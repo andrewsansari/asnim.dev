@@ -7,7 +7,7 @@ draft = false
 
 
 Software
-- This website is hosted on GCP Storage bucket with Cloudflare in front.
+- This website is hosted in github with Cloudflare in front.
 - Editor: Vscode
 - Terminal: Alacritty
 - Notes: Notability
